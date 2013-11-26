@@ -14,7 +14,7 @@ public class TestEx3_5 {
 		numeroteur.afficher("Ligne : ");
 		numeroteur.afficher(10);
 		numeroteur.afficher('n');
-		numeroteur.afficher("Attention au retour à la ligne\ndans la chaîne");
+		numeroteur.afficher("Attention au retour à la ligne\ndans la chaîne\nhéhé");
 	}
 
 }
